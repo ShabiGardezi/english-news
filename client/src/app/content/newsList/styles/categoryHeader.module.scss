@@ -1,0 +1,25 @@
+.categoryContainer {
+    display: flex;
+    background: #20294b;
+    color: white;
+    width: 100%;
+    font-size: 5px;
+    font-weight: 500;
+    gap: 5px;
+    margin: 0px;
+}
+
+.categoryItem {
+    padding: 4px;
+    cursor: pointer;
+    border-bottom: 1px solid transparent; // Default border
+    transition: border-color 0.3s ease;
+}
+
+.categoryItem:hover {
+    text-decoration: underline;
+}
+
+.active {
+    border-bottom: 1px solid rgb(0, 119, 255); // Blue border for active category
+}

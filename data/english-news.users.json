@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "669be48a846b17537b3fdef7"
+  },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "password123"
+},
+{
+  "_id": {
+    "$oid": "669be48a846b17537b3fdef8"
+  },
+  "name": "Jane Smith",
+  "email": "jane@example.com",
+  "password": "password456"
+},
+{
+  "_id": {
+    "$oid": "669be48a846b17537b3fdef9"
+  },
+  "name": "Alice Johnson",
+  "email": "alice@example.com",
+  "password": "password789"
+},
+{
+  "_id": {
+    "$oid": "669be48a846b17537b3fdefa"
+  },
+  "name": "Bob Brown",
+  "email": "bob@example.com",
+  "password": "password101"
+}]
